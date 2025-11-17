@@ -10,26 +10,21 @@
   "miniapp": {
     "version": "1",
     "name": "Hello Base Mini App",
-    "homeUrl": "https://baseminiapp-eta.vercel.app/",
-    "iconUrl": "https://baseminiapp-eta.vercel.app/icon.png",
-    "splashImageUrl": "https://baseminiapp-eta.vercel.app/icon.png",
+    "homeUrl": "https://baseminiapp-z865.vercel.app/",
+    "iconUrl": "https://baseminiapp-z865.vercel.app/icon.png",
+    "splashImageUrl": "https://baseminiapp-z865.vercel.app/icon.png",
     "splashBackgroundColor": "#0052ff",
 
     "subtitle": "Simple Hello World demo",
     "description": "Minimal demo mini app that shows Hello World and Connect Wallet.",
-    "tagline": "Hello from Base",
-
+    "screenshotUrls": [],
     "primaryCategory": "developer-tools",
     "tags": ["demo", "hello", "base"],
-
-    "screenshotUrls": [],
-    "heroImageUrl": "https://baseminiapp-eta.vercel.app/icon.png",
-
+    "heroImageUrl": "https://baseminiapp-z865.vercel.app/icon.png",
+    "tagline": "Hello from Base",
     "ogTitle": "Hello Base Mini App",
     "ogDescription": "Minimal Base mini app.",
-    "ogImageUrl": "https://baseminiapp-eta.vercel.app/icon.png",
-
-    "webhookUrl": "",
+    "ogImageUrl": "https://baseminiapp-z865.vercel.app/icon.png",
     "noindex": true
   }
 }
