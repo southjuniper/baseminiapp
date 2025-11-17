@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "accountAssociation": {},
+  "miniapp": {
+    "name": "Base Mini App Demo",
+    "description": "Hello World mini app on Base",
+    "icon": "https://southjuniper.github.io/baseminiapp/icon.png",
+    "url": "https://southjuniper.github.io/baseminiapp/"
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x7688582b861c4F753583069BcAB8061DE7FAE4531"
+  }
+}
