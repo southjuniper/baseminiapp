@@ -5,30 +5,26 @@
     "signature": ""
   },
   "baseBuilder": {
-    "ownerAddress": "0x"
+    "ownerAddress": "0x7688582b861c4F753583069BcAB8061DE7FAE4531"
   },
   "miniapp": {
     "version": "1",
-    "name": "Example Mini App",
-    "homeUrl": "https://ex.co",
-    "iconUrl": "https://ex.co/i.png",
-    "splashImageUrl": "https://ex.co/l.png",
-    "splashBackgroundColor": "#000000",
-    "webhookUrl": "https://ex.co/api/webhook",
-    "subtitle": "Fast, fun, social",
-    "description": "A fast, fun way to challenge friends in real time.",
-    "screenshotUrls": [
-      "https://ex.co/s1.png",
-      "https://ex.co/s2.png",
-      "https://ex.co/s3.png"
-    ],
-    "primaryCategory": "social",
-    "tags": ["example", "miniapp", "baseapp"],
-    "heroImageUrl": "https://ex.co/og.png",
-    "tagline": "Play instantly",
-    "ogTitle": "Example Mini App",
-    "ogDescription": "Challenge friends in real time.",
-    "ogImageUrl": "https://ex.co/og.png",
+    "name": "Hello Base Mini App",
+    "homeUrl": "https://baseminiapp-z865.vercel.app/",
+    "iconUrl": "https://baseminiapp-z865.vercel.app/icon.png",
+    "splashImageUrl": "https://baseminiapp-z865.vercel.app/icon.png",
+    "splashBackgroundColor": "#0052ff",
+    "webhookUrl": "https://baseminiapp-z865.vercel.app/api/webhook",
+    "subtitle": "Simple Hello World demo",
+    "description": "Minimal demo mini app that shows Hello World and Connect Wallet.",
+    "screenshotUrls": [],
+    "primaryCategory": "developer-tools",
+    "tags": ["developer-tools", "demo"],
+    "heroImageUrl": "https://baseminiapp-z865.vercel.app/icon.png",
+    "tagline": "Hello from Base",
+    "ogTitle": "Hello Base Mini App",
+    "ogDescription": "Minimal Base mini app.",
+    "ogImageUrl": "https://baseminiapp-z865.vercel.app/icon.png",
     "noindex": true
   }
 }
