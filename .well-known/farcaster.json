@@ -1,11 +1,11 @@
 {
-  "accountAssociation": {  // these will be added in step 5
+  "accountAssociation": {
     "header": "",
     "payload": "",
     "signature": ""
   },
   "baseBuilder": {
-    "ownerAddress": "0x" // add your Base Account address here
+    "ownerAddress": "0x"
   },
   "miniapp": {
     "version": "1",
