@@ -25,4 +25,11 @@
     "screenshotUrls": [],
     "heroImageUrl": "https://baseminiapp-eta.vercel.app/icon.png",
 
-    "ogTitle":
+    "ogTitle": "Hello Base Mini App",
+    "ogDescription": "Minimal Base mini app.",
+    "ogImageUrl": "https://baseminiapp-eta.vercel.app/icon.png",
+
+    "webhookUrl": "",
+    "noindex": true
+  }
+}
