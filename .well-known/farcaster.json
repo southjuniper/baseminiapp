@@ -1,13 +1,28 @@
 {
-  "version": "1.0.0",
-  "accountAssociation": {},
-  "miniapp": {
-    "name": "Base Mini App Demo",
-    "description": "Hello World mini app on Base",
-    "icon": "https://southjuniper.github.io/baseminiapp/icon.png",
-    "url": "https://southjuniper.github.io/baseminiapp/"
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
   },
   "baseBuilder": {
     "ownerAddress": "0x7688582b861c4F753583069BcAB8061DE7FAE4531"
-  }
-}
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Hello Base Mini App",
+    "homeUrl": "https://baseminiapp-eta.vercel.app/",
+    "iconUrl": "https://baseminiapp-eta.vercel.app/icon.png",
+    "splashImageUrl": "https://baseminiapp-eta.vercel.app/icon.png",
+    "splashBackgroundColor": "#0052ff",
+
+    "subtitle": "Simple Hello World demo",
+    "description": "Minimal demo mini app that shows Hello World and Connect Wallet.",
+    "tagline": "Hello from Base",
+
+    "primaryCategory": "developer-tools",
+    "tags": ["demo", "hello", "base"],
+
+    "screenshotUrls": [],
+    "heroImageUrl": "https://baseminiapp-eta.vercel.app/icon.png",
+
+    "ogTitle":
